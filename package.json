@@ -1,0 +1,17 @@
+{
+  "name": "com.nae3na.proroad-mesh-tools",
+  "version": "1.0.0",
+  "displayName": "ProRoad Mesh Tools",
+  "description": "Unity Editor tools for additional mesh processing in ProRoad workflows.",
+  "unity": "6000.0",
+  "keywords": [
+    "proroad",
+    "objectplanter",
+    "road",
+    "mesh",
+    "editor"
+  ],
+  "author": {
+    "name": "nae3na"
+  }
+}
